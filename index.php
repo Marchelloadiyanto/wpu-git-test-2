@@ -7,6 +7,9 @@
     <title>coba git remote</title>
 </head>
 <body>
+    <ul>
+        <li>perubahan </li>
+    </ul>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto fuga laborum architecto voluptatibus libero esse hic. Unde quidem eius laudantium tenetur cum velit expedita, praesentium repudiandae numquam neque odit id!</p>
 </body>
 </html>
